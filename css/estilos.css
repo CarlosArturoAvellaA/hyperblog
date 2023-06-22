@@ -8,12 +8,11 @@ body
     margin: 0;
     padding: 0;
 
-
 #cabecera
 {
-    background: #37488b;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+    background: #58d379;
+    box-shadow: 0px 4px 30px 0px rgba(0,0,0,0.5);
+    color: black;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
@@ -52,11 +51,9 @@ body
 }
 
 #footer {
-    background: #777;
-    color: white;
+    background: #4ad67d;
+    color: black;
     text-align:  center;
     padding: 0.5em;
 }
-
-
 
